@@ -1,3 +1,6 @@
+#vi du de push len github
+#chu char co gi het :v
+
 #Bài 1
 #Nhap 2 vector x, y
 x<-c(4,2,6)
